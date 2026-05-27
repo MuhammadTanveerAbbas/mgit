@@ -1,5 +1,6 @@
 # mgit
-
+[![npm version](https://badge.fury.io/js/%40themvpguy%2Fmgit.svg)](https://www.npmjs.com/package/@themvpguy/mgit)
+[![npm downloads](https://img.shields.io/npm/dm/@themvpguy/mgit.svg)](https://www.npmjs.com/package/@themvpguy/mgit)
 > Multi-client GitHub workflow CLI — manage SSH keys, conventional commits,
 > and daily git ops across all your client repos.
 
