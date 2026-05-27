@@ -1,6 +1,6 @@
 {
   "name": "@themvpguy/mgit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multi-client GitHub workflow CLI — manage SSH keys, branches, and commits across all your client repos",
   "type": "module",
   "bin": {
@@ -10,8 +10,18 @@
     "node": ">=18.0.0"
   },
   "keywords": [
-    "git", "github", "ssh", "multi-client", "cli", "developer-tools",
-    "workflow", "commits", "branches", "themvpguy", "saas", "mvp"
+    "git",
+    "github",
+    "ssh",
+    "multi-client",
+    "cli",
+    "developer-tools",
+    "workflow",
+    "commits",
+    "branches",
+    "themvpguy",
+    "saas",
+    "mvp"
   ],
   "author": "Muhammad Tanveer Abbas <contact@themvpguy.vercel.app>",
   "license": "MIT",
